@@ -6,13 +6,6 @@ spring:
     url: jdbc:mysql://localhost:3306/spring_cloud_mall?useSLL=false&characterEncoding=utf8
     username: root
     password: 505877
-
-#  cloud:
-#    config:
-#      discovery:
-#        enabled: true
-#        service-id: CONFIG
-#      profile: dev
 eureka:
   client:
     service-url:
