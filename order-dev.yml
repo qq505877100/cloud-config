@@ -16,5 +16,8 @@ server:
 PRODUCT:
   ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
+user:
+  name: zahngsan
+  age: 20
 env:
   dev
