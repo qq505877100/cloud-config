@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: product
+  datasource:
+    driver-class-name:
+    url: jdbc:mysql://localhost:3306/spring_cloud_mall?useSLL=false&characterEncoding=utf8
+    username: root
+    password: 505877
+server:
+  port: 8090
+
